@@ -8,7 +8,7 @@
 - Ruby on Rails
 - Git 
 
-- click here to see the [front-end](https://github.com/efoosag/hello-react-front-end/)
+- click here to see the [front-end](https://github.com/gids-dadi/hello-react-front-end/)
 
 ## Getting Started
 
@@ -18,24 +18,24 @@ To get a local copy up and running follow these simple example steps.
 - computer
 
 ### Setup
-- Run git clone ` https://github.com/efoosag/hello-rails-back-end.git`
+- Run git clone ` https://github.com/gids-dadi/hello-rails-back-end.git`
 - Run `bundle install`
 - Run `rails new my_new_app --api --database=postgresql`
  - `Note: to view the front end run the app on port: http://localhost:3010/`
 ## Author
 
-👤 **Victor Osagie**
+👤 **Gideon Dadi**
 
-- GitHub: [@efoosag](https://github.com/efoosag)
-- Twitter: [@Victor Osagie](https://www.twitter.com/Victorosagie08)
-- LinkedIn: [@VictorOsagie](https://www.linkedin.com/in/victor-osagie-a713ba22b/)
+-Linkedin [@GideonDadi](https://www.linkedin.com/feed/)<br>
+-GitHub: [@gids_dadi](https://github.com/gids-dadi)<br>
+-Twitter: [@Dadi_AG](https://twitter.com/Dadi_AG)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/efoosag/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/gids-dadi/hello-rails-back-end/issues).
 
 ## Show your support
 
