@@ -6,6 +6,4 @@ Rails.application.routes.draw do
       resources :messages, only: [ :index ]
     end
   end
-  # Defines the root path route ("/")
-  # root "articles#index"
 end
